@@ -1,5 +1,7 @@
 ### Publications 📝
 
+- [Investigating how speech and animation realism influence the perceived personality of virtual characters and agents](https://ieeexplore.ieee.org/abstract/document/9756815/) <br/> *Sean Thomas, Ylva Ferstl, Rachel McDonnell, Cathy Ennis*
+
 - [Human or Robot? Investigating voice, appearance and gesture motion realism of conversational social agents](https://dl.acm.org/doi/10.1145/3472306.3478338) <br/> *Ylva Ferstl, Sean Thomas, Cédric Guiard, Cathy Ennis, Rachel McDonnell*
 
 ### Articles 📰
